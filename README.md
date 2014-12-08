@@ -8,13 +8,13 @@ Create a Crossplatform development solution that will support Android, iOS and W
 
 #### Page of Content
 1. Mobile platforms and Web. 
-1.1 Introduction to platform environment and tools
-1.2 Platform differences and similarities
+  1. Introduction to platform environment and tools
+  2. Platform differences and similarities
 2. Crossplatform performance analysis
-2.1 Crossplatform benchmark suite development
-2.2 Platform benchmark statistics
+  1. Crossplatform benchmark suite development
+  2. Platform benchmark statistics
 3. Custom Crossplatform solution development
-3.1 Plan
-3.2 Realisation
-3.3 Benchmark results
+  1. Plan
+  2. Realisation
+  3. Benchmark results
 4. Conclusion
