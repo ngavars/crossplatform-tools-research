@@ -5,3 +5,16 @@ With a deversity of platforms and devices available in Mobile and Web, the major
 
 #### Thesis Goal:
 Create a Crossplatform development solution that will support Android, iOS and Web platforms and compare using a set of crossplatform benchmarks that was defined during thesis investigation phase.
+
+#### Page of Content
+1. Mobile platforms and Web. 
+1.1 Introduction to platform environment and tools
+1.2 Platform differences and similarities
+2. Crossplatform performance analysis
+2.1 Crossplatform benchmark suite development
+2.2 Platform benchmark statistics
+3. Custom Crossplatform solution development
+3.1 Plan
+3.2 Realisation
+3.3 Benchmark results
+4. Conclusion
